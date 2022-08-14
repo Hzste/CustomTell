@@ -1,0 +1,6 @@
+name: CustomTell
+main: blood\CustomTell
+version: 1.0.0
+api: 4.0.0
+author: BloodFistMCPE
+description: Customize the /tell and /reply command!

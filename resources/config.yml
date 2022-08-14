@@ -1,0 +1,18 @@
+---
+# Toggle this option to change receiver name to 'You'
+# For example, [BloodFistMCPE -> You]: It says You and not you're name.
+use-you: false
+
+# This message will be sent to both players.
+message-sent: "§a[§e{sender} §a-> §e{receiver}§a]: §e{msg}"
+
+# This message will be sent if there is no one to reply.
+empty-reply: "§cYou do not have anyone to reply to!"
+
+# These message will be sent for invalid usage.
+tell-usage: "§cUsage: /tell <player> <message>"
+reply-usage: "§cUsage: /reply <message>"
+
+# This message will be sent if an invalid player is given.
+invalid-player: "§cPlayer not online."
+...
