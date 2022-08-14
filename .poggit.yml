@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/BloodFistMCPE/CustomTell
+build-by-default: true
+branches:
+- main
+projects:
+  CustomTell:
+    path: ""
+...
